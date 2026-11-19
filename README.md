@@ -17,6 +17,16 @@
 
 ---
 
+## AI Agent Skills：学习辅助技能包
+
+开源项目：[Xi-Bei-70/study-skills](https://github.com/Xi-Bei-70/study-skills)（兼容 Claude Code / Codex / Cursor / Antigravity，支持 `npx skills add Xi-Bei-70/study-skills` 一键安装）：
+
+- **`stem-study-tutor`**：理工科双语导师（课件逐页三档精讲、课本视觉降维、中英真题步骤分保护与错题诊断、手写/波形图看图解题）
+- **`dual-track-html-notes`**：双轨讲义卡片生成器（单文件 HTML + KaTeX 公式 + 原生 SVG 矢量图 + `Esc` 一键纯净截图模式 + 1:1 Markdown）
+- **`book-grounded-writing`**：长书与史料有据写作（章节证据表、核对页码出处与学术写作规范）
+
+---
+
 ## 其他项目
 
 - **Forts 其他模组与工具**：整理中
